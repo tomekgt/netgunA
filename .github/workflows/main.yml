@@ -1,34 +1,36 @@
 name: Sprawdź nowe ogłoszenia NetGun
-
+ 
 on:
   schedule:
     # 6:00 UTC = 7:00/8:00 czasu polskiego (zależnie od czasu letniego/zimowego)
-    - cron: "0 12 * * *"
+    - cron: "0 13 * * *"
   workflow_dispatch: {}  # pozwala też odpalić ręcznie z zakładki "Actions"
-
+ 
 permissions:
   contents: write
-
+ 
 jobs:
   check:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
+ 
       - name: Ustaw Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
+ 
       - name: Zainstaluj zależności
         run: pip install requests beautifulsoup4
-
+ 
       - name: Uruchom sprawdzanie ogłoszeń
         run: python scripts/check_new_listings.py
-
+ 
       - name: Zacommituj zmiany (nowe dane + strona)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Aktualizacja ogłoszeń: ${{ github.run_id }}"
           file_pattern: "data/seen_listings.json docs/index.html"
+ 
+
