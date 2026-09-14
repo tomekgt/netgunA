@@ -27,6 +27,7 @@ BASE_URL = "https://www.netgun.pl"
 # używając slugów widocznych w adresie URL kategorii na netgun.pl.
 CATEGORIES = {
     "pistolety": "Pistolety",
+    "szafy-sejfy": "Szafy, sejfy",
 }
 
 # Ile pierwszych stron danej kategorii sprawdzamy przy każdym uruchomieniu.
