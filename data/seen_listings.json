@@ -648,6 +648,18 @@
       "105643": {
         "title": "DOWOZIMY P64 P-64 P 64 kal. 9x18",
         "first_seen": "2026-09-14"
+      },
+      "146425": {
+        "title": "Star DKI Starfire | Stan Bardzo dobry -",
+        "first_seen": "2026-09-14"
+      },
+      "160789": {
+        "title": "Zainteresowała Cię ta oferta?Sprawdź szczegóły8 zdj.Echelon Comp 9x19 , 4,5 Udot Tryt frame Agency Arms",
+        "first_seen": "2026-09-14"
+      },
+      "160550": {
+        "title": "Zainteresowała Cię ta oferta?Sprawdź szczegóły9 zdj.Tarczowy Smith & Wesson Model 3906 Competition 6″ INOX",
+        "first_seen": "2026-09-14"
       }
     },
     "szafy-sejfy": {
@@ -1219,6 +1231,36 @@
           "price": "1900 zł",
           "condition": "Używany",
           "thumbnail": "https://www.netgun.pl/thumbnails/image/105/105643/1711708036_66069784dcc04xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "146425",
+          "title": "Star DKI Starfire | Stan Bardzo dobry -",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/146425-star-dki-starfire-stan-bardzo-dobry",
+          "kind": "sprzedam",
+          "price": "1250 zł",
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/146/146425/1773515464_69b5b2c8590a1xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "160789",
+          "title": "Zainteresowała Cię ta oferta?Sprawdź szczegóły8 zdj.Echelon Comp 9x19 , 4,5 Udot Tryt frame Agency Arms",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/160789-echelon-comp-9x19-45-udot-tryt-frame-agency-arms",
+          "kind": "sprzedam",
+          "price": null,
+          "condition": null,
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/160/160789/1788214186_6a95fbaa2a7b8xo_256x256.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "160550",
+          "title": "Zainteresowała Cię ta oferta?Sprawdź szczegóły9 zdj.Tarczowy Smith & Wesson Model 3906 Competition 6″ INOX",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/160550-tarczowy-smith-wesson-model-3906-competition-6-inox",
+          "kind": "sprzedam",
+          "price": null,
+          "condition": null,
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/160/160789/1788214186_6a95fbaa2a7b8xo_256x256.jpg",
           "category": "pistolety"
         }
       ]
