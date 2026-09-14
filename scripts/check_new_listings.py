@@ -52,7 +52,24 @@ HEADERS = {
 # Dopasowuje linki do szczegółów ogłoszenia, np.:
 # /pistolety/sprzedam/162008-sprzedam-pistolet
 # /pistolety/kupie/162003-kupie-micro-roni-do-cz-p10c
+# (dopasowujemy samą ŚCIEŻKĘ, po ewentualnym usunięciu domeny - patrz normalize_href)
 LISTING_HREF_RE = re.compile(r"^/(?P<category>[a-z\-]+)/(?P<kind>sprzedam|kupie)/(?P<id>\d+)-")
+
+DOMAIN_PREFIXES = (
+    "https://www.netgun.pl",
+    "http://www.netgun.pl",
+    "https://netgun.pl",
+    "http://netgun.pl",
+)
+
+
+def normalize_href(href):
+    """Zwraca samą ścieżkę, niezależnie od tego czy href był względny
+    (/pistolety/...) czy pełny (https://www.netgun.pl/pistolety/...)."""
+    for prefix in DOMAIN_PREFIXES:
+        if href.startswith(prefix):
+            return href[len(prefix):]
+    return href
 
 
 def load_state():
@@ -73,6 +90,7 @@ def fetch_page(category_slug, page_number):
     if page_number > 1:
         url += f"?page={page_number}"
     resp = requests.get(url, headers=HEADERS, timeout=30)
+    print(f"    [debug] GET {url} -> status {resp.status_code}, {len(resp.text)} znaków")
     resp.raise_for_status()
     return resp.text
 
@@ -107,14 +125,19 @@ def find_listing_container(anchor):
     return anchor.parent or anchor
 
 
-def parse_listings_from_html(html, category_slug):
+def parse_listings_from_html(html, category_slug, debug=False):
     soup = BeautifulSoup(html, "html.parser")
     listings = {}
 
-    for a in soup.find_all("a", href=True):
-        m = LISTING_HREF_RE.match(a["href"])
+    all_links = soup.find_all("a", href=True)
+    matched_any_category = 0
+
+    for a in all_links:
+        path = normalize_href(a["href"])
+        m = LISTING_HREF_RE.match(path)
         if not m:
             continue
+        matched_any_category += 1
         if m.group("category") != category_slug:
             continue
 
@@ -137,12 +160,19 @@ def parse_listings_from_html(html, category_slug):
         listings[listing_id] = {
             "id": listing_id,
             "title": title,
-            "url": BASE_URL + a["href"],
+            "url": BASE_URL + path,
             "kind": m.group("kind"),
             "price": extract_price(container_text),
             "condition": extract_condition(container_text),
             "thumbnail": thumbnail,
         }
+
+    if debug:
+        print(
+            f"    [debug] linków <a> na stronie: {len(all_links)}, "
+            f"pasujących do wzorca ogłoszenia (dowolna kategoria): {matched_any_category}, "
+            f"z kategorii '{category_slug}': {len(listings)}"
+        )
 
     return listings
 
@@ -155,9 +185,14 @@ def scan_category(category_slug, pages):
         except requests.RequestException as e:
             print(f"  Błąd pobierania {category_slug} strona {page}: {e}", file=sys.stderr)
             break
-        found = parse_listings_from_html(html, category_slug)
+        found = parse_listings_from_html(html, category_slug, debug=(page == 1))
         if not found:
             # pusta strona - prawdopodobnie koniec ogłoszeń w tej kategorii
+            if page == 1:
+                # Nic nie znaleziono nawet na pierwszej stronie - zrzuć fragment
+                # HTML do logów, żeby dało się zdiagnozować dlaczego.
+                print("  [debug] Nie znaleziono NIC na 1. stronie. Pierwsze 1500 znaków HTML:")
+                print(html[:1500])
             break
         all_listings.update(found)
         time.sleep(1)  # uprzejmość wobec serwera
