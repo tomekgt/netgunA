@@ -792,6 +792,46 @@
       "159534": {
         "title": "Walther PDP FS OR 4.5\"",
         "first_seen": "2026-09-15"
+      },
+      "147216": {
+        "title": "Taurus PT51 kal. 6,35",
+        "first_seen": "2026-09-15"
+      },
+      "156048": {
+        "title": "Canik MC9 Mete",
+        "first_seen": "2026-09-15"
+      },
+      "162155": {
+        "title": "CZ P09",
+        "first_seen": "2026-09-15"
+      },
+      "162156": {
+        "title": "Skorpion vz.61 .32 ACP",
+        "first_seen": "2026-09-15"
+      },
+      "162164": {
+        "title": "Smith & Wesson S&W 5906 9x19",
+        "first_seen": "2026-09-15"
+      },
+      "157767": {
+        "title": "chiappa m1-9 M1 Carbine 9mm",
+        "first_seen": "2026-09-15"
+      },
+      "157766": {
+        "title": "glock 17",
+        "first_seen": "2026-09-15"
+      },
+      "115276": {
+        "title": "Colt Government 1911 MK IV 70 Series 9x19",
+        "first_seen": "2026-09-15"
+      },
+      "161318": {
+        "title": "Zainteresowała Cię ta oferta?Sprawdź szczegóły5 zdj.JERICHO 941 FB",
+        "first_seen": "2026-09-15"
+      },
+      "134354": {
+        "title": "ZIG M45 Tisas 1911",
+        "first_seen": "2026-09-15"
       }
     },
     "szafy-sejfy": {
@@ -1728,6 +1768,116 @@
           "price": "2900 zł",
           "condition": "Używany",
           "thumbnail": "https://www.netgun.pl/thumbnails/image/159/159534/1786906612_6a8207f4dafc0xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "147216",
+          "title": "Taurus PT51 kal. 6,35",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/147216-taurus-pt51-kal-635",
+          "kind": "sprzedam",
+          "price": "500 zł",
+          "price_value": 500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/147/147216/1774392566_69c314f639c3bxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "156048",
+          "title": "Canik MC9 Mete",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/156048-canik-mc9-mete",
+          "kind": "sprzedam",
+          "price": "2800 zł",
+          "price_value": 2800,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/156/156048/1783323345_6a4b5ad1a7032xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "162155",
+          "title": "CZ P09",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/162155-cz-p09",
+          "kind": "sprzedam",
+          "price": "2200 zł",
+          "price_value": 2200,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/162/162155/1789478932_6aa948146f00axo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "162156",
+          "title": "Skorpion vz.61 .32 ACP",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/162156-skorpion-vz61-32-acp",
+          "kind": "sprzedam",
+          "price": "1300 zł",
+          "price_value": 1300,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/162/162156/1789479250_6aa94952307c6xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "162164",
+          "title": "Smith & Wesson S&W 5906 9x19",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/162164-smith-wesson-sw-5906-9x19",
+          "kind": "sprzedam",
+          "price": "3250 zł",
+          "price_value": 3250,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/162/162164/1789482599_6aa95667a6379xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "157767",
+          "title": "chiappa m1-9 M1 Carbine 9mm",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/157767-chiappa-m1-9-m1-carbine-9mm",
+          "kind": "sprzedam",
+          "price": "2100 zł",
+          "price_value": 2100,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/157/157767/1785098965_6a6672d582bd0xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "157766",
+          "title": "glock 17",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/157766-glock-17",
+          "kind": "sprzedam",
+          "price": "2000 zł",
+          "price_value": 2000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/157/157766/1785098742_6a6671f6c62e6xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "115276",
+          "title": "Colt Government 1911 MK IV 70 Series 9x19",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/115276-colt-government-1911-mk-iv-70-series-9x19",
+          "kind": "sprzedam",
+          "price": "3500 zł",
+          "price_value": 3500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/115/115276/1732286699_674098ebc311fxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "161318",
+          "title": "Zainteresowała Cię ta oferta?Sprawdź szczegóły5 zdj.JERICHO 941 FB",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/161318-jericho-941-fb",
+          "kind": "sprzedam",
+          "price": null,
+          "price_value": null,
+          "condition": null,
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/156/156763/1789102967_6aa38b77b876axo_256x256.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "134354",
+          "title": "ZIG M45 Tisas 1911",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/134354-zig-m45-tisas-1911",
+          "kind": "sprzedam",
+          "price": "945 3300 zł",
+          "price_value": 9453300,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/134/134354/1759401042_68de5452c708dxo_350x350.jpg",
           "category": "pistolety"
         }
       ]
