@@ -288,6 +288,15 @@ function renderItem(it) {{
   </div>`;
 }}
 
+function getPriceValue(it) {{
+  if (typeof it.price_value === 'number') return it.price_value;
+  if (!it.price) return null;
+  const match = String(it.price).match(/([\\d\\s]+)/);
+  if (!match) return null;
+  const digits = match[1].replace(/\\s/g, '');
+  return digits ? parseInt(digits) : null;
+}}
+
 function render() {{
   const daysBack = Math.max(1, parseInt(document.getElementById('daysBack').value) || {default_days});
   const minPriceRaw = document.getElementById('minPrice').value;
@@ -306,8 +315,9 @@ function render() {{
 
   for (const day of slice) {{
     const filtered = day.items.filter(it => {{
-      if (minPrice !== null && (it.price_value === null || it.price_value === undefined || it.price_value < minPrice)) return false;
-      if (maxPrice !== null && (it.price_value === null || it.price_value === undefined || it.price_value > maxPrice)) return false;
+      const pv = getPriceValue(it);
+      if (minPrice !== null && (pv === null || pv < minPrice)) return false;
+      if (maxPrice !== null && (pv === null || pv > maxPrice)) return false;
       return true;
     }});
 
