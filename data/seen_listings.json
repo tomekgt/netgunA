@@ -832,6 +832,102 @@
       "134354": {
         "title": "ZIG M45 Tisas 1911",
         "first_seen": "2026-09-15"
+      },
+      "159834": {
+        "title": "Glock 43x MOS Sprzedam/zamienię na Glock 16,lub 43 MOS",
+        "first_seen": "2026-09-16"
+      },
+      "162172": {
+        "title": "KIMBER MICRO 9 GOLD ROSE ZESTAW",
+        "first_seen": "2026-09-16"
+      },
+      "137375": {
+        "title": "Sprzedam P08",
+        "first_seen": "2026-09-16"
+      },
+      "160587": {
+        "title": "Beretta APX A0 + akcesoria",
+        "first_seen": "2026-09-16"
+      },
+      "126451": {
+        "title": "Walther P38 kal. 9×19 BYF 43",
+        "first_seen": "2026-09-16"
+      },
+      "158669": {
+        "title": "Walther P38 ULM 9x19 komplet fabryka",
+        "first_seen": "2026-09-16"
+      },
+      "158670": {
+        "title": "CZ 75 9x19 Czechosłowacja 1986 rok komplet fabryka",
+        "first_seen": "2026-09-16"
+      },
+      "158672": {
+        "title": "COLT National Match Mid Range .38 Specjal WC",
+        "first_seen": "2026-09-16"
+      },
+      "154669": {
+        "title": "Pistolet Ranger Arms RA9 DEFENCE",
+        "first_seen": "2026-09-16"
+      },
+      "162181": {
+        "title": "Kupię Glocka 26",
+        "first_seen": "2026-09-16"
+      },
+      "160812": {
+        "title": "SIG Sauer P320 X-Five Legion",
+        "first_seen": "2026-09-16"
+      },
+      "157448": {
+        "title": "Walther PPK 7,65 mm – edycja jubileuszowa",
+        "first_seen": "2026-09-16"
+      },
+      "157457": {
+        "title": "Colt Competition Series 70 Government Model",
+        "first_seen": "2026-09-16"
+      },
+      "157454": {
+        "title": "Colt MK IV Series 80 Gold Cup National Match",
+        "first_seen": "2026-09-16"
+      },
+      "157464": {
+        "title": "Colt MK IV Series 70 Gold Cup National Match",
+        "first_seen": "2026-09-16"
+      },
+      "157462": {
+        "title": "Colt MK IV Series 80 Gold Cup National Match",
+        "first_seen": "2026-09-16"
+      },
+      "126633": {
+        "title": "Walther PP, Zella Mehlis, kal,7,65 B",
+        "first_seen": "2026-09-16"
+      },
+      "142508": {
+        "title": "Stainless Colt 1911 Gold Cup First Edition 9x19mm",
+        "first_seen": "2026-09-16"
+      },
+      "148830": {
+        "title": "Walther P38K",
+        "first_seen": "2026-09-16"
+      },
+      "159003": {
+        "title": "sprzedam pistolet P83 Wanad",
+        "first_seen": "2026-09-16"
+      },
+      "140695": {
+        "title": "Stoeger STR-9S Combat",
+        "first_seen": "2026-09-16"
+      },
+      "162173": {
+        "title": "CZ P09 9x19",
+        "first_seen": "2026-09-16"
+      },
+      "160510": {
+        "title": "Glock 45 mos - podrasowany",
+        "first_seen": "2026-09-16"
+      },
+      "114479": {
+        "title": "Astra A70",
+        "first_seen": "2026-09-16"
       }
     },
     "szafy-sejfy": {
@@ -1878,6 +1974,275 @@
           "price_value": 9453300,
           "condition": "Używany",
           "thumbnail": "https://www.netgun.pl/thumbnails/image/134/134354/1759401042_68de5452c708dxo_350x350.jpg",
+          "category": "pistolety"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "items": [
+        {
+          "id": "159834",
+          "title": "Glock 43x MOS Sprzedam/zamienię na Glock 16,lub 43 MOS",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/159834-glock-43x-mos-sprzedamzamienie-na-glock-16lub-43-mos",
+          "kind": "sprzedam",
+          "price": "2900 zł",
+          "price_value": 2900,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/159/159834/1787171413_6a8612558b500xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "162172",
+          "title": "KIMBER MICRO 9 GOLD ROSE ZESTAW",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/162172-kimber-micro-9-gold-rose-zestaw",
+          "kind": "sprzedam",
+          "price": "6500 zł",
+          "price_value": 6500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/162/162172/1789493140_6aa97f94ac98exo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "137375",
+          "title": "Sprzedam P08",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/137375-sprzedam-p08",
+          "kind": "sprzedam",
+          "price": "12500 zł",
+          "price_value": 12500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/137/137375/1763285851_69199b5b62a4fxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "160587",
+          "title": "Beretta APX A0 + akcesoria",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/160587-beretta-apx-a0-akcesoria",
+          "kind": "sprzedam",
+          "price": "2399 zł",
+          "price_value": 2399,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/160/160587/1788024578_6a931702c5a29xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "126451",
+          "title": "Walther P38 kal. 9×19 BYF 43",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/126451-walther-p38-kal-919-byf-43",
+          "kind": "sprzedam",
+          "price": "5500 zł",
+          "price_value": 5500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/126/126451/1747990008_683035f81c6c5xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "158669",
+          "title": "Walther P38 ULM 9x19 komplet fabryka",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/158669-walther-p38-ulm-9x19-komplet-fabryka",
+          "kind": "sprzedam",
+          "price": "3500 zł",
+          "price_value": 3500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/158/158669/1786020310_6a7481d63e15exo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "158670",
+          "title": "CZ 75 9x19 Czechosłowacja 1986 rok komplet fabryka",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/158670-cz-75-9x19-czechoslowacja-1986-rok-komplet-fabryka",
+          "kind": "sprzedam",
+          "price": "3400 zł",
+          "price_value": 3400,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/158/158670/1786020846_6a7483ee72b52xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "158672",
+          "title": "COLT National Match Mid Range .38 Specjal WC",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/158672-colt-national-match-mid-range-38-specjal-wc",
+          "kind": "sprzedam",
+          "price": "7900 zł",
+          "price_value": 7900,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/158/158672/1786021451_6a74864beffa9xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "154669",
+          "title": "Pistolet Ranger Arms RA9 DEFENCE",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/154669-pistolet-ranger-arms-ra9-defence",
+          "kind": "sprzedam",
+          "price": "1490 zł",
+          "price_value": 1490,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/154/154669/1782900144_6a44e5b00ab3bxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "162181",
+          "title": "Kupię Glocka 26",
+          "url": "https://www.netgun.pl/pistolety/kupie/162181-kupie-glocka-26",
+          "kind": "kupie",
+          "price": "2000 zł",
+          "price_value": 2000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/images/announcement_thumb.png",
+          "category": "pistolety"
+        },
+        {
+          "id": "160812",
+          "title": "SIG Sauer P320 X-Five Legion",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/160812-sig-sauer-p320-x-five-legion",
+          "kind": "sprzedam",
+          "price": "4000 zł",
+          "price_value": 4000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/160/160812/1788257509_6a96a4e5ea5c4xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "157448",
+          "title": "Walther PPK 7,65 mm – edycja jubileuszowa",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/157448-walther-ppk-765-mm-edycja-jubileuszowa",
+          "kind": "sprzedam",
+          "price": "9500 zł",
+          "price_value": 9500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/157/157448/1784804058_6a61f2da9f7adxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "157457",
+          "title": "Colt Competition Series 70 Government Model",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/157457-colt-competition-series-70-government-model",
+          "kind": "sprzedam",
+          "price": "8500 zł",
+          "price_value": 8500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/157/157457/1784806049_6a61faa101b62xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "157454",
+          "title": "Colt MK IV Series 80 Gold Cup National Match",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/157454-colt-mk-iv-series-80-gold-cup-national-match",
+          "kind": "sprzedam",
+          "price": "22000 zł",
+          "price_value": 22000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/157/157454/1784805033_6a61f6a99bcadxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "157464",
+          "title": "Colt MK IV Series 70 Gold Cup National Match",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/157464-colt-mk-iv-series-70-gold-cup-national-match",
+          "kind": "sprzedam",
+          "price": "8500 zł",
+          "price_value": 8500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/157/157464/1784808871_6a6205a7b3191xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "157462",
+          "title": "Colt MK IV Series 80 Gold Cup National Match",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/157462-colt-mk-iv-series-80-gold-cup-national-match",
+          "kind": "sprzedam",
+          "price": "10500 zł",
+          "price_value": 10500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/157/157462/1784808465_6a620411dbb12xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "126633",
+          "title": "Walther PP, Zella Mehlis, kal,7,65 B",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/126633-walther-pp-zella-mehlis-kal765-b",
+          "kind": "sprzedam",
+          "price": "4200 zł",
+          "price_value": 4200,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/126/126633/1748263020_6834606c3b2b2xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "142508",
+          "title": "Stainless Colt 1911 Gold Cup First Edition 9x19mm",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/142508-stainless-colt-1911-gold-cup-first-edition-9x19mm",
+          "kind": "sprzedam",
+          "price": "8000 zł",
+          "price_value": 8000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/142/142508/1769269153_6974e7a1f2931xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "148830",
+          "title": "Walther P38K",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/148830-walther-p38k",
+          "kind": "sprzedam",
+          "price": "6600 zł",
+          "price_value": 6600,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/148/148830/1776027955_69dc0933485f7xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "159003",
+          "title": "sprzedam pistolet P83 Wanad",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/159003-sprzedam-pistolet-p83-wanad",
+          "kind": "sprzedam",
+          "price": "1200 zł",
+          "price_value": 1200,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/159/159003/1786428631_6a7abcd77bbc8xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "140695",
+          "title": "Stoeger STR-9S Combat",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/140695-stoeger-str-9s-combat",
+          "kind": "sprzedam",
+          "price": "2000 zł",
+          "price_value": 2000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/140/140695/1767123880_69542ba88a709xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "162173",
+          "title": "CZ P09 9x19",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/162173-cz-p09-9x19",
+          "kind": "sprzedam",
+          "price": "1999 zł",
+          "price_value": 1999,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/162/162173/1789493194_6aa97fcad736bxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "160510",
+          "title": "Glock 45 mos - podrasowany",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/160510-glock-45-mos-podrasowany",
+          "kind": "sprzedam",
+          "price": "7000 zł",
+          "price_value": 7000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/160/160510/1787903801_6a913f391bba6xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "114479",
+          "title": "Astra A70",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/114479-astra-a70",
+          "kind": "sprzedam",
+          "price": "1300 zł",
+          "price_value": 1300,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/114/114479/1730918569_672bb8a953583xo_350x350.jpg",
           "category": "pistolety"
         }
       ]
