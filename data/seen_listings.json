@@ -1052,6 +1052,22 @@
       "162136": {
         "title": "Pistolet samopowt. BARAK MTX9 MOS USA FLAG",
         "first_seen": "2026-09-16"
+      },
+      "152807": {
+        "title": "Beretta 92x performance",
+        "first_seen": "2026-09-16"
+      },
+      "149687": {
+        "title": "Sig Sauer P320 Compact + kabura",
+        "first_seen": "2026-09-16"
+      },
+      "121539": {
+        "title": "CZ Shadow 2 Orange",
+        "first_seen": "2026-09-16"
+      },
+      "159389": {
+        "title": "SIG P75, 9x19mm",
+        "first_seen": "2026-09-16"
       }
     },
     "szafy-sejfy": {
@@ -2753,6 +2769,50 @@
           "price_value": 1800,
           "condition": "Używany",
           "thumbnail": "https://www.netgun.pl/thumbnails/image/162/162136/1789468659_6aa91ff3a49f0xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "152807",
+          "title": "Beretta 92x performance",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/152807-beretta-92x-performance",
+          "kind": "sprzedam",
+          "price": "6000 zł",
+          "price_value": 6000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/152/152807/1780238289_6a1c47d156732xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "149687",
+          "title": "Sig Sauer P320 Compact + kabura",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/149687-sig-sauer-p320-compact-kabura",
+          "kind": "sprzedam",
+          "price": "3500 zł",
+          "price_value": 3500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/149/149687/1777002763_69eae90b66a20xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "121539",
+          "title": "CZ Shadow 2 Orange",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/121539-cz-shadow-2-orange",
+          "kind": "sprzedam",
+          "price": "7199 zł",
+          "price_value": 7199,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/121/121539/1741271855_67c9b32fe7563xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "159389",
+          "title": "SIG P75, 9x19mm",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/159389-sig-p75-9x19mm",
+          "kind": "sprzedam",
+          "price": "3000 zł",
+          "price_value": 3000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/159/159389/1786799107_6a8064030d054xo_350x350.jpg",
           "category": "pistolety"
         }
       ]
