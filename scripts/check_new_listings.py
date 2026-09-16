@@ -27,7 +27,6 @@ BASE_URL = "https://www.netgun.pl"
 # używając slugów widocznych w adresie URL kategorii na netgun.pl.
 CATEGORIES = {
     "pistolety": "Pistolety",
-    "szafy-sejfy": "Szafy, sejfy",
 }
 
 # Ile pierwszych stron danej kategorii sprawdzamy przy każdym uruchomieniu.
@@ -222,7 +221,7 @@ def build_html(state):
         history_for_js.append({"date": day["date"], "items": items_for_js})
 
     history_json = json.dumps(history_for_js, ensure_ascii=False)
-    default_days = min(1, DAYS_OF_HISTORY)
+    default_days = min(7, DAYS_OF_HISTORY)
 
     html = f"""<!DOCTYPE html>
 <html lang="pl"><head><meta charset="utf-8">
@@ -387,7 +386,10 @@ def main():
     # skrypt uruchamiano dziś wcześniej).
     history = state["history"]
     if history and history[-1]["date"] == today:
-        history[-1]["items"].extend(todays_new_items)
+        # Doklej NA POCZĄTEK (nie na koniec) — te znalezione teraz są
+        # chronologicznie nowsze niż te z wcześniejszego uruchomienia dziś,
+        # więc mają się pokazać wyżej.
+        history[-1]["items"] = todays_new_items + history[-1]["items"]
     else:
         history.append({"date": today, "items": todays_new_items})
     state["history"] = history[-DAYS_OF_HISTORY:]
