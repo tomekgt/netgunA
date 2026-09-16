@@ -1068,6 +1068,30 @@
       "159389": {
         "title": "SIG P75, 9x19mm",
         "first_seen": "2026-09-16"
+      },
+      "155173": {
+        "title": "Kel-tec P17",
+        "first_seen": "2026-09-16"
+      },
+      "159604": {
+        "title": "Pistolet sportowy RUGER Mark II Target, kal. .22lr",
+        "first_seen": "2026-09-16"
+      },
+      "158639": {
+        "title": "PM-84 Glauberyt",
+        "first_seen": "2026-09-16"
+      },
+      "155988": {
+        "title": "Kupię Pistolet Mag 98 C, Mag 96 - kal. 9x19",
+        "first_seen": "2026-09-16"
+      },
+      "144167": {
+        "title": "Bul Armory AXE FS Hatchet",
+        "first_seen": "2026-09-16"
+      },
+      "162223": {
+        "title": "Glock 19 commando",
+        "first_seen": "2026-09-16"
       }
     },
     "szafy-sejfy": {
@@ -2133,6 +2157,72 @@
     {
       "date": "2026-09-16",
       "items": [
+        {
+          "id": "155173",
+          "title": "Kel-tec P17",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/155173-kel-tec-p17",
+          "kind": "sprzedam",
+          "price": "1100 zł",
+          "price_value": 1100,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/155/155173/1782334014_6a3c423e276c7xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "159604",
+          "title": "Pistolet sportowy RUGER Mark II Target, kal. .22lr",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/159604-pistolet-sportowy-ruger-mark-ii-target-kal-22lr",
+          "kind": "sprzedam",
+          "price": "2300 zł",
+          "price_value": 2300,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/159/159604/1788280689_6a96ff715f9a4xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "158639",
+          "title": "PM-84 Glauberyt",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/158639-pm-84-glauberyt",
+          "kind": "sprzedam",
+          "price": "3700 zł",
+          "price_value": 3700,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/158/158639/1786002121_6a743ac9ace94xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "155988",
+          "title": "Kupię Pistolet Mag 98 C, Mag 96 - kal. 9x19",
+          "url": "https://www.netgun.pl/pistolety/kupie/155988-kupie-pistolet-mag-98-c-mag-96-kal-9x19",
+          "kind": "kupie",
+          "price": "454 8500 zł",
+          "price_value": 4548500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/155/155988/1783261005_6a4a674da91fbxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "144167",
+          "title": "Bul Armory AXE FS Hatchet",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/144167-bul-armory-axe-fs-hatchet",
+          "kind": "sprzedam",
+          "price": "3800 zł",
+          "price_value": 3800,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/144/144167/1771080068_69908984e02ccxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "162223",
+          "title": "Glock 19 commando",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/162223-glock-19-commando",
+          "kind": "sprzedam",
+          "price": "3000 zł",
+          "price_value": 3000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/162/162223/1789566108_6aaa9c9c704c0xo_350x350.jpg",
+          "category": "pistolety"
+        },
         {
           "id": "159834",
           "title": "Glock 43x MOS Sprzedam/zamienię na Glock 16,lub 43 MOS",
