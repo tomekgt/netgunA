@@ -221,7 +221,7 @@ def build_html(state):
         history_for_js.append({"date": day["date"], "items": items_for_js})
 
     history_json = json.dumps(history_for_js, ensure_ascii=False)
-    default_days = min(7, DAYS_OF_HISTORY)
+    default_days = min(1, DAYS_OF_HISTORY)
 
     html = f"""<!DOCTYPE html>
 <html lang="pl"><head><meta charset="utf-8">
