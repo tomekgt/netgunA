@@ -1194,6 +1194,18 @@
       "95212": {
         "title": "Sejf na broń",
         "first_seen": "2026-09-14"
+      },
+      "162138": {
+        "title": "Sejf S1 Valberg Arsenał 46, jak nowy",
+        "first_seen": "2026-09-16"
+      },
+      "162120": {
+        "title": "Szafa sejf S1 4 jednostki długie jak nowa",
+        "first_seen": "2026-09-16"
+      },
+      "162069": {
+        "title": "Sejf S1 na broń",
+        "first_seen": "2026-09-16"
       }
     }
   },
@@ -2244,6 +2256,39 @@
           "condition": "Używany",
           "thumbnail": "https://www.netgun.pl/thumbnails/image/114/114479/1730918569_672bb8a953583xo_350x350.jpg",
           "category": "pistolety"
+        },
+        {
+          "id": "162138",
+          "title": "Sejf S1 Valberg Arsenał 46, jak nowy",
+          "url": "https://www.netgun.pl/szafy-sejfy/sprzedam/162138-sejf-s1-valberg-arsenal-46-jak-nowy",
+          "kind": "sprzedam",
+          "price": "800 zł",
+          "price_value": 800,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/162/162138/1789470381_6aa926adc3bcaxo_350x350.jpg",
+          "category": "szafy-sejfy"
+        },
+        {
+          "id": "162120",
+          "title": "Szafa sejf S1 4 jednostki długie jak nowa",
+          "url": "https://www.netgun.pl/szafy-sejfy/sprzedam/162120-szafa-sejf-s1-4-jednostki-dlugie-jak-nowa",
+          "kind": "sprzedam",
+          "price": "1000 zł",
+          "price_value": 1000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/162/162120/1789458552_6aa8f87884be8xo_350x350.jpg",
+          "category": "szafy-sejfy"
+        },
+        {
+          "id": "162069",
+          "title": "Sejf S1 na broń",
+          "url": "https://www.netgun.pl/szafy-sejfy/sprzedam/162069-sejf-s1-na-bron",
+          "kind": "sprzedam",
+          "price": "500 zł",
+          "price_value": 500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/162/162069/1789401170_6aa818521ba3exo_350x350.jpg",
+          "category": "szafy-sejfy"
         }
       ]
     }
