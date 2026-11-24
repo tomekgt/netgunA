@@ -7860,6 +7860,70 @@
       "169144": {
         "title": "Iż 35 M Stan B.Dobry",
         "first_seen": "2026-11-24"
+      },
+      "169350": {
+        "title": "CZ SP-01 Shadow Dual Tone",
+        "first_seen": "2026-11-24"
+      },
+      "169337": {
+        "title": "Tanfoglio LIMITED CUSTOM Black 9x19mm",
+        "first_seen": "2026-11-24"
+      },
+      "169335": {
+        "title": "Bul Armory SAS II SL SAW kal. .40S&W",
+        "first_seen": "2026-11-24"
+      },
+      "169308": {
+        "title": "Zainteresowała Cię ta oferta?Sprawdź szczegóły4 zdj.Glock 45 MOS z kolimatorem Vortex ST Defender",
+        "first_seen": "2026-11-24"
+      },
+      "169284": {
+        "title": "Walther PDP, HK SFP9CC, Glock 26 i inne Black Friday Katowice",
+        "first_seen": "2026-11-24"
+      },
+      "167513": {
+        "title": "KUPIĘ Kimber 2k11 lub inne 2011",
+        "first_seen": "2026-11-24"
+      },
+      "166069": {
+        "title": "CZ 75 B 9x19mm",
+        "first_seen": "2026-11-24"
+      },
+      "169348": {
+        "title": "Kupię SOG XS / AR-9",
+        "first_seen": "2026-11-24"
+      },
+      "169349": {
+        "title": "CZ P10C",
+        "first_seen": "2026-11-24"
+      },
+      "169347": {
+        "title": "SIG Sauer MPX K",
+        "first_seen": "2026-11-24"
+      },
+      "169309": {
+        "title": "P-99 Walther",
+        "first_seen": "2026-11-24"
+      },
+      "169322": {
+        "title": "Sig P210-2 9x19",
+        "first_seen": "2026-11-24"
+      },
+      "169323": {
+        "title": "CZ TS2 2022 rok 9x19",
+        "first_seen": "2026-11-24"
+      },
+      "169326": {
+        "title": "HK P7 PSP 9mm Para (1982) – przyrządy tarczowe LPA",
+        "first_seen": "2026-11-24"
+      },
+      "169330": {
+        "title": "PISTOLET WALTHER P1, ROK 1966, Kal. 9x19",
+        "first_seen": "2026-11-24"
+      },
+      "169333": {
+        "title": "Walther GSP .22lr konwersja .32S&W",
+        "first_seen": "2026-11-24"
       }
     },
     "szafy-sejfy": {
@@ -8349,6 +8413,10 @@
       },
       "169078": {
         "title": "Szafa na 5 jednostek broni",
+        "first_seen": "2026-11-24"
+      },
+      "169345": {
+        "title": "Szafa na broń długą ARSENAŁ 1253T klasa S1",
         "first_seen": "2026-11-24"
       }
     }
@@ -11073,6 +11141,193 @@
     {
       "date": "2026-11-24",
       "items": [
+        {
+          "id": "169350",
+          "title": "CZ SP-01 Shadow Dual Tone",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169350-cz-sp-01-shadow-dual-tone",
+          "kind": "sprzedam",
+          "price": "3500 zł",
+          "price_value": 3500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169350/1795546680_6b05de387fce0xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169337",
+          "title": "Tanfoglio LIMITED CUSTOM Black 9x19mm",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169337-tanfoglio-limited-custom-black-9x19mm",
+          "kind": "sprzedam",
+          "price": "6500 zł",
+          "price_value": 6500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169337/1795534202_6b05ad7aa0d78xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169335",
+          "title": "Bul Armory SAS II SL SAW kal. .40S&W",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169335-bul-armory-sas-ii-sl-saw-kal-40sw",
+          "kind": "sprzedam",
+          "price": "9000 zł",
+          "price_value": 9000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169335/1795533766_6b05abc6c7e61xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169308",
+          "title": "Zainteresowała Cię ta oferta?Sprawdź szczegóły4 zdj.Glock 45 MOS z kolimatorem Vortex ST Defender",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169308-glock-45-mos-z-kolimatorem-vortex-st-defender",
+          "kind": "sprzedam",
+          "price": null,
+          "price_value": null,
+          "condition": null,
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/166/166026/1792845990_6adca8a670fb9xo_256x256.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169284",
+          "title": "Walther PDP, HK SFP9CC, Glock 26 i inne Black Friday Katowice",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169284-walther-pdp-hk-sfp9cc-glock-26-i-inne-black-friday-katowice",
+          "kind": "sprzedam",
+          "price": "3900 zł",
+          "price_value": 3900,
+          "condition": "Nowy",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169284/1795516031_6b05667f320e3xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "167513",
+          "title": "KUPIĘ Kimber 2k11 lub inne 2011",
+          "url": "https://www.netgun.pl/pistolety/kupie/167513-kupie-kimber-2k11-lub-inne-2011",
+          "kind": "kupie",
+          "price": "9999 zł",
+          "price_value": 9999,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167513/1794172568_6af0e69855176xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "166069",
+          "title": "CZ 75 B 9x19mm",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/166069-cz-75-b-9x19mm",
+          "kind": "sprzedam",
+          "price": "2500 zł",
+          "price_value": 2500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/166/166069/1792872064_6add0e80c2222xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169348",
+          "title": "Kupię SOG XS / AR-9",
+          "url": "https://www.netgun.pl/pistolety/kupie/169348-kupie-sog-xs-ar-9",
+          "kind": "kupie",
+          "price": "4000 zł",
+          "price_value": 4000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/images/announcement_thumb.png",
+          "category": "pistolety"
+        },
+        {
+          "id": "169349",
+          "title": "CZ P10C",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169349-cz-p10c",
+          "kind": "sprzedam",
+          "price": "1600 zł",
+          "price_value": 1600,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169349/1795545597_6b05d9fdbe810xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169347",
+          "title": "SIG Sauer MPX K",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169347-sig-sauer-mpx-k",
+          "kind": "sprzedam",
+          "price": "13700 zł",
+          "price_value": 13700,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169347/1795542430_6b05cd9e15e7bxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169309",
+          "title": "P-99 Walther",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169309-p-99-walther",
+          "kind": "sprzedam",
+          "price": "2900 zł",
+          "price_value": 2900,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169309/1795528979_6b0599130dbaaxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169322",
+          "title": "Sig P210-2 9x19",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169322-sig-p210-2-9x19",
+          "kind": "sprzedam",
+          "price": "9900 zł",
+          "price_value": 9900,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169322/1795530944_6b05a0c06753dxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169323",
+          "title": "CZ TS2 2022 rok 9x19",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169323-cz-ts2-2022-rok-9x19",
+          "kind": "sprzedam",
+          "price": "3999 zł",
+          "price_value": 3999,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169323/1795531111_6b05a1678243bxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169326",
+          "title": "HK P7 PSP 9mm Para (1982) – przyrządy tarczowe LPA",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169326-hk-p7-psp-9mm-para-1982-przyrzady-tarczowe-lpa",
+          "kind": "sprzedam",
+          "price": "10500 zł",
+          "price_value": 10500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169326/1795531404_6b05a28ce11d3xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169330",
+          "title": "PISTOLET WALTHER P1, ROK 1966, Kal. 9x19",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169330-pistolet-walther-p1-rok-1966-kal-9x19",
+          "kind": "sprzedam",
+          "price": "3000 zł",
+          "price_value": 3000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169330/1795531936_6b05a4a05975exo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169333",
+          "title": "Walther GSP .22lr konwersja .32S&W",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169333-walther-gsp-22lr-konwersja-32sw",
+          "kind": "sprzedam",
+          "price": "6500 zł",
+          "price_value": 6500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169333/WaltherGSP22lr32SWxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169345",
+          "title": "Szafa na broń długą ARSENAŁ 1253T klasa S1",
+          "url": "https://www.netgun.pl/szafy-sejfy/sprzedam/169345-szafa-na-bron-dluga-arsenal-1253t-klasa-s1",
+          "kind": "sprzedam",
+          "price": "1200 zł",
+          "price_value": 1200,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169345/1795541254_6b05c90674b47xo_350x350.jpg",
+          "category": "szafy-sejfy"
+        },
         {
           "id": "169166",
           "title": "Beretta 92x Performance Full Option Kolimator TS",
