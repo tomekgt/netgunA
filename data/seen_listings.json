@@ -7796,6 +7796,70 @@
       "166177": {
         "title": "STI EDGE 5.0 kal. 9 mm",
         "first_seen": "2026-11-22"
+      },
+      "169166": {
+        "title": "Beretta 92x Performance Full Option Kolimator TS",
+        "first_seen": "2026-11-24"
+      },
+      "169251": {
+        "title": "CZ TS2 USA",
+        "first_seen": "2026-11-24"
+      },
+      "158026": {
+        "title": "Pistolet Colt Combat Commander 9x19 (.357LUBLIN)",
+        "first_seen": "2026-11-24"
+      },
+      "169243": {
+        "title": "Colt 1911 Gold Cup Series 70",
+        "first_seen": "2026-11-24"
+      },
+      "169246": {
+        "title": "Colt 1911 Gold Cup Series 80",
+        "first_seen": "2026-11-24"
+      },
+      "169248": {
+        "title": "pistolet Strike one speed",
+        "first_seen": "2026-11-24"
+      },
+      "169221": {
+        "title": "Pistolet XDM-9 4.5 Olive",
+        "first_seen": "2026-11-24"
+      },
+      "169218": {
+        "title": "Beretta 92FS GHOST Inox",
+        "first_seen": "2026-11-24"
+      },
+      "167421": {
+        "title": "pistolet maszynowy ZK383 kaliber 9x19 mm",
+        "first_seen": "2026-11-24"
+      },
+      "169194": {
+        "title": "Canik TP9 SFX mod. 2",
+        "first_seen": "2026-11-24"
+      },
+      "164531": {
+        "title": "CZ 75 B NOWY / NA RYNEK USA / UNIKAT",
+        "first_seen": "2026-11-24"
+      },
+      "169178": {
+        "title": "Pistolet Ranger Hog RA9 Defence 9mm",
+        "first_seen": "2026-11-24"
+      },
+      "169177": {
+        "title": "System Defence C9 X",
+        "first_seen": "2026-11-24"
+      },
+      "169139": {
+        "title": "Żmija 1911 Double Stack 9mm",
+        "first_seen": "2026-11-24"
+      },
+      "169142": {
+        "title": "Pistolet sportowy MARGOLIN MCM, kal. .22lr",
+        "first_seen": "2026-11-24"
+      },
+      "169144": {
+        "title": "Iż 35 M Stan B.Dobry",
+        "first_seen": "2026-11-24"
       }
     },
     "szafy-sejfy": {
@@ -8270,235 +8334,26 @@
       "169028": {
         "title": "Sejf S1 Arsenał 25",
         "first_seen": "2026-11-22"
+      },
+      "169211": {
+        "title": "Szafa na broń S1",
+        "first_seen": "2026-11-24"
+      },
+      "169184": {
+        "title": "Szafa na broń Valberg Arsenał 1253 zamek elektroniczny",
+        "first_seen": "2026-11-24"
+      },
+      "169094": {
+        "title": "Sejf na broń S1  Arsenał 1423T  szafa na broń długą.",
+        "first_seen": "2026-11-24"
+      },
+      "169078": {
+        "title": "Szafa na 5 jednostek broni",
+        "first_seen": "2026-11-24"
       }
     }
   },
   "history": [
-    {
-      "date": "2026-11-09",
-      "items": [
-        {
-          "id": "167505",
-          "title": "Glock 19 gen 6",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167505-glock-19-gen-6",
-          "kind": "sprzedam",
-          "price": "3500 zł",
-          "price_value": 3500,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167505/1794167565_6af0d30d0bbafxo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "163538",
-          "title": "Canik TP-9 Elite Combat KRK/WWA",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/163538-canik-tp-9-elite-combat-krkwwa",
-          "kind": "sprzedam",
-          "price": "1900 zł",
-          "price_value": 1900,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/163/163538/1790688187_6abbbbbb7a80bxo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "154199",
-          "title": "Glock 34 gen. 4",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/154199-glock-34-gen-4",
-          "kind": "sprzedam",
-          "price": "3050 zł",
-          "price_value": 3050,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/154/154199/1781433318_6a2e83e6f3588xo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167606",
-          "title": "Kolekcjonerski MPS 9mm FB Radom",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167606-kolekcjonerski-mps-9mm-fb-radom",
-          "kind": "sprzedam",
-          "price": "4000 zł",
-          "price_value": 4000,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167606/1794251957_6af21cb560037xo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167607",
-          "title": "Springfield 1911 A1 45 ACP",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167607-springfield-1911-a1-45-acp",
-          "kind": "sprzedam",
-          "price": "3699 zł",
-          "price_value": 3699,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167607/1794253181_6af2217da0940xo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "166061",
-          "title": "Ruger RCM z gwintem duży zestaw",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/166061-ruger-rcm-z-gwintem-duzy-zestaw",
-          "kind": "sprzedam",
-          "price": "2900 zł",
-          "price_value": 2900,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/166/166061/1792863846_6adcee6683b9bxo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167601",
-          "title": "HS SF 19 9x19 mm 4.5 cal",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167601-hs-sf-19-9x19-mm-45-cal",
-          "kind": "sprzedam",
-          "price": "2600 zł",
-          "price_value": 2600,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167601/1794249069_6af2116da3e95xo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "157449",
-          "title": "SIG SAUER P320 AXG CARRY kal. 9x19 - 2025 ROK",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/157449-sig-sauer-p320-axg-carry-kal-9x19-2025-rok",
-          "kind": "sprzedam",
-          "price": "8500 zł",
-          "price_value": 8500,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/157/157449/1784804404_6a61f4345b6edxo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167587",
-          "title": "AF STRYK B COMPETITION TACTICAL",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167587-af-stryk-b-competition-tactical",
-          "kind": "sprzedam",
-          "price": "4100 zł",
-          "price_value": 4100,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167587/1794246068_6af205b473ecdxo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "166164",
-          "title": "Pistolet CZ TS2 Orange .40 M-Arms Monarch",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/166164-pistolet-cz-ts2-orange-40-m-arms-monarch",
-          "kind": "sprzedam",
-          "price": "7490 zł",
-          "price_value": 7490,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/166/166164/1792957566_6ade5c7e31f97xo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "135675",
-          "title": "VIS Radom wz 35 - polski (z orzełkiem) - 1937 rok",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/135675-vis-radom-wz-35-polski-z-orzelkiem-1937-rok",
-          "kind": "sprzedam",
-          "price": "55000 zł",
-          "price_value": 55000,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/135/135675/VISRadomwz35z1937rokuxo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167584",
-          "title": "Beretta Apx",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167584-beretta-apx",
-          "kind": "sprzedam",
-          "price": "2200 zł",
-          "price_value": 2200,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167584/1794243824_6af1fcf0d33aexo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167578",
-          "title": "Sig Sauer P320",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167578-sig-sauer-p320",
-          "kind": "sprzedam",
-          "price": "3200 zł",
-          "price_value": 3200,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167578/1794242279_6af1f6e714431xo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167573",
-          "title": "CZ TS3 ORANGE",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167573-cz-ts3-orange",
-          "kind": "sprzedam",
-          "price": "11400 zł",
-          "price_value": 11400,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167573/1794237574_6af1e4863d53bxo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167572",
-          "title": "Sprzedam lub zamienię glock 19 gen 5 do brasil",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167572-sprzedam-lub-zamienie-glock-19-gen-5-do-brasil",
-          "kind": "sprzedam",
-          "price": "2750 zł",
-          "price_value": 2750,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167572/1794236512_6af1e060aa286xo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167564",
-          "title": "Pistolet hukowy STALKER M906 – Jak NOWY",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167564-pistolet-hukowy-stalker-m906-jak-nowy",
-          "kind": "sprzedam",
-          "price": "500 zł",
-          "price_value": 500,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167564/1794234962_6af1da52810adxo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "113064",
-          "title": "SIG SAUER P229 LEGION",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/113064-sig-sauer-p229-legion",
-          "kind": "sprzedam",
-          "price": "10000 zł",
-          "price_value": 10000,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/113/113064/1728398649_67054539efa5dxo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167556",
-          "title": "Glock 17 gen 3 do Brasil",
-          "url": "https://www.netgun.pl/pistolety/sprzedam/167556-glock-17-gen-3-do-brasil",
-          "kind": "sprzedam",
-          "price": "1900 zł",
-          "price_value": 1900,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167556/1794232015_6af1cecfba4b5xo_350x350.jpg",
-          "category": "pistolety"
-        },
-        {
-          "id": "167536",
-          "title": "szafa S1 na bron z zmakiem elektronicznym",
-          "url": "https://www.netgun.pl/szafy-sejfy/sprzedam/167536-szafa-s1-na-bron-z-zmakiem-elektronicznym",
-          "kind": "sprzedam",
-          "price": "2000 zł",
-          "price_value": 2000,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167536/1794220690_6af1a2923abd2xo_350x350.jpg",
-          "category": "szafy-sejfy"
-        },
-        {
-          "id": "167494",
-          "title": "Szafa S1",
-          "url": "https://www.netgun.pl/szafy-sejfy/sprzedam/167494-szafa-s1",
-          "kind": "sprzedam",
-          "price": "1900 zł",
-          "price_value": 1900,
-          "condition": "Używany",
-          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167494/1794161750_6af0bc56cc410xo_350x350.jpg",
-          "category": "szafy-sejfy"
-        }
-      ]
-    },
     {
       "date": "2026-11-10",
       "items": [
@@ -11211,6 +11066,231 @@
           "price_value": 500,
           "condition": "Używany",
           "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169028/1795348164_6b02d6c41e20axo_350x350.jpg",
+          "category": "szafy-sejfy"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "items": [
+        {
+          "id": "169166",
+          "title": "Beretta 92x Performance Full Option Kolimator TS",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169166-beretta-92x-performance-full-option-kolimator-ts",
+          "kind": "sprzedam",
+          "price": "7000 zł",
+          "price_value": 7000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169166/1795438465_6b04378144399xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169251",
+          "title": "CZ TS2 USA",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169251-cz-ts2-usa",
+          "kind": "sprzedam",
+          "price": "5280 zł",
+          "price_value": 5280,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169251/1795467798_6b04aa1674c17xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "158026",
+          "title": "Pistolet Colt Combat Commander 9x19 (.357LUBLIN)",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/158026-pistolet-colt-combat-commander-9x19-357lublin",
+          "kind": "sprzedam",
+          "price": "4500 zł",
+          "price_value": 4500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/158/158026/1785348744_6a6a4288145e4xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169243",
+          "title": "Colt 1911 Gold Cup Series 70",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169243-colt-1911-gold-cup-series-70",
+          "kind": "sprzedam",
+          "price": "3750 zł",
+          "price_value": 3750,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169243/1795462900_6b0496f45c71axo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169246",
+          "title": "Colt 1911 Gold Cup Series 80",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169246-colt-1911-gold-cup-series-80",
+          "kind": "sprzedam",
+          "price": "3750 zł",
+          "price_value": 3750,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169246/1795463544_6b049978069c8xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169248",
+          "title": "pistolet Strike one speed",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169248-pistolet-strike-one-speed",
+          "kind": "sprzedam",
+          "price": "5500 zł",
+          "price_value": 5500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169248/1795464459_6b049d0b100dexo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169221",
+          "title": "Pistolet XDM-9 4.5 Olive",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169221-pistolet-xdm-9-45-olive",
+          "kind": "sprzedam",
+          "price": "1700 zł",
+          "price_value": 1700,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169221/1795453888_6b0473c026d7bxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169218",
+          "title": "Beretta 92FS GHOST Inox",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169218-beretta-92fs-ghost-inox",
+          "kind": "sprzedam",
+          "price": "4800 zł",
+          "price_value": 4800,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169218/1795451788_6b046b8cab3f2xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "167421",
+          "title": "pistolet maszynowy ZK383 kaliber 9x19 mm",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/167421-pistolet-maszynowy-zk383-kaliber-9x19-mm",
+          "kind": "sprzedam",
+          "price": "38000 zł",
+          "price_value": 38000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/167/167421/1794128188_6af0393c0946bxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169194",
+          "title": "Canik TP9 SFX mod. 2",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169194-canik-tp9-sfx-mod-2",
+          "kind": "sprzedam",
+          "price": "2000 zł",
+          "price_value": 2000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169194/1795445374_6b04527ee2fa7xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "164531",
+          "title": "CZ 75 B NOWY / NA RYNEK USA / UNIKAT",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/164531-cz-75-b-nowy-na-rynek-usa-unikat",
+          "kind": "sprzedam",
+          "price": "3400 zł",
+          "price_value": 3400,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/164/164531/1791649566_6aca671ebb9e4xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169178",
+          "title": "Pistolet Ranger Hog RA9 Defence 9mm",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169178-pistolet-ranger-hog-ra9-defence-9mm",
+          "kind": "sprzedam",
+          "price": "1000 zł",
+          "price_value": 1000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169178/1795440006_6b043d86d12adxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169177",
+          "title": "System Defence C9 X",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169177-system-defence-c9-x",
+          "kind": "sprzedam",
+          "price": "2000 zł",
+          "price_value": 2000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169177/1795439832_6b043cd851332xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169139",
+          "title": "Żmija 1911 Double Stack 9mm",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169139-zmija-1911-double-stack-9mm",
+          "kind": "sprzedam",
+          "price": "13000 zł",
+          "price_value": 13000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169139/1795432248_6b041f38dc024xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169142",
+          "title": "Pistolet sportowy MARGOLIN MCM, kal. .22lr",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169142-pistolet-sportowy-margolin-mcm-kal-22lr",
+          "kind": "sprzedam",
+          "price": "2400 zł",
+          "price_value": 2400,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169142/1795433348_6b042384ad6acxo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169144",
+          "title": "Iż 35 M Stan B.Dobry",
+          "url": "https://www.netgun.pl/pistolety/sprzedam/169144-iz-35-m-stan-bdobry",
+          "kind": "sprzedam",
+          "price": "3000 zł",
+          "price_value": 3000,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169144/1795434286_6b04272e0ff37xo_350x350.jpg",
+          "category": "pistolety"
+        },
+        {
+          "id": "169211",
+          "title": "Szafa na broń S1",
+          "url": "https://www.netgun.pl/szafy-sejfy/sprzedam/169211-szafa-na-bron-s1",
+          "kind": "sprzedam",
+          "price": "1900 zł",
+          "price_value": 1900,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169211/1795448825_6b045ff980f48xo_350x350.jpg",
+          "category": "szafy-sejfy"
+        },
+        {
+          "id": "169184",
+          "title": "Szafa na broń Valberg Arsenał 1253 zamek elektroniczny",
+          "url": "https://www.netgun.pl/szafy-sejfy/sprzedam/169184-szafa-na-bron-valberg-arsenal-1253-zamek-elektroniczny",
+          "kind": "sprzedam",
+          "price": "1500 zł",
+          "price_value": 1500,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169184/1795441737_6b0444492c777xo_350x350.jpg",
+          "category": "szafy-sejfy"
+        },
+        {
+          "id": "169094",
+          "title": "Sejf na broń S1  Arsenał 1423T  szafa na broń długą.",
+          "url": "https://www.netgun.pl/szafy-sejfy/sprzedam/169094-sejf-na-bron-s1-arsenal-1423t-szafa-na-bron-dluga",
+          "kind": "sprzedam",
+          "price": "900 zł",
+          "price_value": 900,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169094/1795390879_6b037d9f7bd3fxo_350x350.jpg",
+          "category": "szafy-sejfy"
+        },
+        {
+          "id": "169078",
+          "title": "Szafa na 5 jednostek broni",
+          "url": "https://www.netgun.pl/szafy-sejfy/sprzedam/169078-szafa-na-5-jednostek-broni",
+          "kind": "sprzedam",
+          "price": "1800 zł",
+          "price_value": 1800,
+          "condition": "Używany",
+          "thumbnail": "https://www.netgun.pl/thumbnails/image/169/169078/1795374119_6b033c273c852xo_350x350.jpg",
           "category": "szafy-sejfy"
         }
       ]
